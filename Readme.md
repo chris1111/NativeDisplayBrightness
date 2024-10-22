@@ -1,4 +1,5 @@
 # NativeDisplayBrightness
+- Update 21 Oct 2024 Adapted for macOS Sequoia 15
 
 *Control your desktop monitor brightness just like on a MacBook!*
 
