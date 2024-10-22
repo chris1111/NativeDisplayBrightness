@@ -3,7 +3,7 @@
 
 *Control your desktop monitor brightness just like on a MacBook!*
 
-- [x] `Building:`
+- [x] `Building: ➥ Xcode is required`
 ```bash
 git clone https://github.com/chris1111/NativeDisplayBrightness.git && cd $HOME/NativeDisplayBrightness && make
 ```
