@@ -8,7 +8,8 @@
 git clone https://github.com/chris1111/NativeDisplayBrightness.git && cd $HOME/NativeDisplayBrightness && make
 ```
 
-![native brightness UI](https://raw.githubusercontent.com/Bensge/NativeDisplayBrightness/master/nativeUI.png)
+<img width="225" alt="nativeUI" src="https://github.com/user-attachments/assets/dff27376-b4f2-40fa-8f86-df6184bd8945">
+
 
 This a utility application to control monitor brightness with the F1, F2 keys. It utilizes DDC/CI, but this app doesn't have the freezing issues that similar aplications tend to suffer from.
 
