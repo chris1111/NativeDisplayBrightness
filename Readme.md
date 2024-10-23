@@ -11,7 +11,7 @@ git clone https://github.com/chris1111/NativeDisplayBrightness.git && cd $HOME/N
 <img width="225" alt="nativeUI" src="https://github.com/user-attachments/assets/dff27376-b4f2-40fa-8f86-df6184bd8945">
 
 
-This a utility application to control monitor brightness with the (⌘ + ← ARROW_LEFT), (⌘ + → ARROW_RIGHT) keys. It utilizes DDC/CI, but this app doesn't have the freezing issues that similar aplications tend to suffer from.
+This a utility application to control monitor brightness with the (← ARROW_LEFT), (→ ARROW_RIGHT) keys. It utilizes DDC/CI, but this app doesn't have the freezing issues that similar aplications tend to suffer from.
 
 This app also shows the **native** system UI when changing brightness! It uses the private `BezelServices` framework for this.
 
