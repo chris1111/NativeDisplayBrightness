@@ -13,7 +13,7 @@ git clone https://github.com/chris1111/NativeDisplayBrightness.git && cd $HOME/N
 
 
 
-This a utility application to control monitor brightness with the (← ARROW_LEFT), (→ ARROW_RIGHT) keys. It utilizes DDC/CI, but this app doesn't have the freezing issues that similar aplications tend to suffer from.
+This a utility application to control monitor brightness with the (F1), (F2) keys. It utilizes DDC/CI, but this app doesn't have the freezing issues that similar aplications tend to suffer from.
 
 Usage ➤ [Usage](https://github.com/chris1111/NativeDisplayBrightness/blob/master/Usage.md)
 
