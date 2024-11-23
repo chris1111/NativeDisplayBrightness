@@ -102,7 +102,7 @@ CGEventRef keyboardCGEventCallback(CGEventTapProxy proxy,
 {
     [NSEvent addGlobalMonitorForEventsMatchingMask:NSEventMaskKeyDown | NSEventMaskKeyUp handler:^(NSEvent *_Nonnull event) {
         //NSLog(@"event!!");
-        if (event.keyCode == kVK_LeftArrow)
+        if (event.keyCode == kVK_F1)
         {
             if (event.type == NSEventTypeKeyDown)
             {
@@ -111,7 +111,7 @@ CGEventRef keyboardCGEventCallback(CGEventTapProxy proxy,
                 });
             }
         }
-        else if (event.keyCode == kVK_RightArrow)
+        else if (event.keyCode == kVK_F2)
         {
             if (event.type == NSEventTypeKeyDown)
             {
